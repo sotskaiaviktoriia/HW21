@@ -1,0 +1,22 @@
+[
+  {
+    "title": "apple",
+    "type": "fruit",
+    "color": "green"
+  },
+  {
+    "title": "cherry",
+    "type": "berry",
+    "color": "red"
+  },
+  {
+    "title": "milk",
+    "type": "liquid",
+    "color": "white"
+  },
+  {
+    "title": "carrot",
+    "type": "vegetable",
+    "color": "orange"
+  }
+]
